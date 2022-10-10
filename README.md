@@ -2,7 +2,7 @@
 Handy xor cli tool
 
 ## Install
-`go install github.com/s77rt/xor`
+`go install github.com/s77rt/xor@latest`
 
 ## Usage
 `xor input key`  
