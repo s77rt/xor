@@ -5,6 +5,6 @@ Handy xor cli tool
 `go install github.com/s77rt/xor`
 
 ## Usage
-`xor input key`
-`xor input key | base64`
-`xor input key | base64 -w 0`
+`xor input key`  
+`xor input key | base64`  
+`xor input key | base64 -w 0`  
